@@ -2,3 +2,4 @@ Red, Green, Blue
 White, Amber, UV
 Cyan, Magenta, Yellow
 Purple
+Orange
