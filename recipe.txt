@@ -1,2 +1,2 @@
 Pizza: tomato, cheese
-Topping: pinapple
+Topping: pinapple, jalapeno
